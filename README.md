@@ -3,5 +3,7 @@ Fraud prevention system has been helping consumers saving millions of dollars pe
 This was a Kaggle research competition. In this competition, the data comes from Vesta’s real-world e-commerce transactions and contains a wide range of features from device type to product features. 
 
 This project is divided into 2 parts:
+
 Part 1: predict fraud transaction using XGBoost
+
 Part 2: predict fraud transaction using Deep Neural Network
